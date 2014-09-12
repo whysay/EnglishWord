@@ -1,0 +1,73 @@
+[1번 그룹]
+*perform/실행하다
+*forcibly/강제적으로
+*constraint/제약, 강제, 압박
+*indicate/나타내다, 지시하다
+*concrete/구체적인, 명확한
+*facade/정면, 외관
+*decorator/장식자
+singleton/하나씩 일어나는것
+*composite/혼성의, 합성의
+strategy/전략, 전술
+[2번 그룹]
+interpreter/통역, 해설자
+memento/기념물, 유품, 추억
+responsibility/책임, 의무
+iterate/반복하다, 되풀이하다
+*analyze/분석하다
+porxy/대리, 대리인
+mediator/중재인, 조정자
+*trait/특성, 특색
+generator/발전기, [컴퓨터]생성 프로그램
+hash/뒤범벅, [컴퓨터]잡동사니, 쓰레기
+compliant/유순한, 시키는 대로 하는
+bidirectional/양방향의
+arbitrary/임의의
+idiosyncrasies/특징, 개성
+polymorphic/다형의
+implementations/완성, 충족
+represents/나타내다, 표현하다
+individual/개개의
+inclusion/포함
+manipulate/조종하다, 조작하다
+redundant/과다한, 매우 풍부한
+tedious/지루한, 장황한
+considerable/꽤 많은, 고려해야 할
+contrast/대조, 차이
+dedicated/헌정하다, 공식으로 개관하다
+ellipsis/생략, 생략 부호
+feeding/공급하다, 부양하다
+deferred/연기하다, 미루다
+classify/분류하다, 등급으로 나누다
+decompose/분해시키다, 분석하다
+synthesize/종합하다, 합성하다
+Intrusive/침입의, 끼어든
+segregate/분리하다, 차별하다
+contributions/기여, 공헌
+evaluation/평가
+dimensional/차수의, 차원의
+quaternions/4원수, 4원법 산법
+statistical/통계적인
+simultaneous/동시에 일어나는
+coherent/시종일관한, 조리가 있는
+semantics/의미론
+discriminated/구별하다, 식별하다, 차별하다
+repetition/되풀이, 반복
+recursion/재귀, 반복
+conventional/틀에 박힌, 진부한
+specific/명확한
+vice versa/반대로
+infrastructure/기본적 시설
+rational/합리적인
+persistence/끈기, 고집
+marshalling/정렬 시키다
+maintainable/계속 할 수 있는
+assertions/단언하다, 가정하다
+diagnostics/특징을 나타내는, 진단상의
+ease/편함, 용이함, 가벼워지다
+fundamental/기본적인, 기초의
+emulation/경쟁, 대항
+dense/밀집한, 빽빽한
+sparse/희박한, 드문드문한
+schemes/계획, 설계
+manipulation/교묘한 처리, 조작
